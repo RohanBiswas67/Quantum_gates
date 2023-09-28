@@ -48,7 +48,3 @@ One needs to use the command :
 python3 <filename>
 ```
 
-
-
-
-Quantum_gates Copyright (C) 2023 Rohan Biswas
