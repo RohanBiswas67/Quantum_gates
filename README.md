@@ -38,3 +38,12 @@ For a zsh user (the default shell on newer versions of macOS), you’ll need to 
 ```
 pip install 'qiskit[visualization]'
 ```
+## Usage
+> To run .ipynb files :
+One needs to run Jupyter Notebook. To do so , one must type ``` jupyter-notebook``` in the shell , and then locate to the required directory.
+
+> To run python .py scripts :
+One needs to use the command :
+```
+python3 <filename>
+```
